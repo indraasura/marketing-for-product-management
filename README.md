@@ -108,3 +108,32 @@ leadership team. In this case, you may want to ask for a modified budget for the
 prove value first.
 
 ###### Tip: Try the $1 a day approach where you spend a dollar each day and analyze - if good, spend more
+
+## Social Media Listening and Monitoring
+
+### Difference 
+
+* SML is how you track, analyze and respond to conversations across the internet
+* SMM is actively looking for mentions and conversations that pertain to your brand, products, hashtags, employees, competitors and customers
+
+### Social Monitoring - Brand Conversation
+
+#### Benefits
+
+1. Puts you and your target buyer persona in the same audience. 
+2. It's you and your audience talking to each other about a third subkect or party - to be a part of the conversation, you don't necessariy have to be the subject of it 
+3. Allows to monitor your brand's reputation by combining customer responses
+
+### Social Listening
+
+#### Benefits
+
+1. Gives you the opportunity to measure the performance of your social media, web, and even to some extent, your conversations and offline content strategy
+2. Helps you manage reputation
+3. Helps you identify your biggest fans and influencers
+4. Helps you discover new product ideas or ways to enhance features on existing products
+5. Helps you watch the competition
+6. Can lead to new business opportunites
+7. Helps you set strategic benchmarks for your future
+
+##### Two modes of listening: Monitoring and Engangement
