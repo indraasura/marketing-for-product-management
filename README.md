@@ -157,4 +157,30 @@ There are three main reasons why people use social media: to be informed, entert
 
 1. Influencer content - people listen to whatever famous people say
 2. User-generated content - content developed by fans/followers and shared on social media (unboxing, swag unopening, etc)
-You can use hashtags to generate more user-generated content 
+You can use hashtags to generate more user-generated content.
+
+## Developing Strategic Social Content Plan
+
+1. Figure out what has worked well in the past
+    1. Conduct a content audit of current social media channels and look at: 
+        1. social networks
+        2. content types
+        3. social campaigns that produce roi
+2. Set SMART goals
+3. Build a buyer persona
+4. Research competitors
+5. Consider your resources
+6. Test your content
+
+Once your content plan has been developed, move on to create a content calender.
+
+## Using tone and voice on social media
+
+### Voice
+The distinc and steady personality of your brand. (helpful, quirky, sarcastic, funny, grim, etc).
+
+### Tone
+Tone is a subset of voice and refers to the mood and attitude of specific content pieces. Context is the key to come up with a proper tone. Put yourself in the audience's shoes and think about their personas.
+
+
+
