@@ -159,7 +159,7 @@ There are three main reasons why people use social media: to be informed, entert
 2. User-generated content - content developed by fans/followers and shared on social media (unboxing, swag unopening, etc)
 You can use hashtags to generate more user-generated content.
 
-## Developing Strategic Social Content Plan
+### Developing Strategic Social Content Plan
 
 1. Figure out what has worked well in the past
     1. Conduct a content audit of current social media channels and look at: 
@@ -174,15 +174,15 @@ You can use hashtags to generate more user-generated content.
 
 Once your content plan has been developed, move on to create a content calender.
 
-## Using tone and voice on social media
+### Using tone and voice on social media
 
-### Voice
+#### Voice
 The distinc and steady personality of your brand. (helpful, quirky, sarcastic, funny, grim, etc).
 
-### Tone
+#### Tone
 Tone is a subset of voice and refers to the mood and attitude of specific content pieces. Context is the key to come up with a proper tone. Put yourself in the audience's shoes and think about their personas.
 
-### Developing tone and voice for a brand
+#### Developing tone and voice for a brand
 
 1. Personalize brand and think of it as a person. 
 2. Context is key when developing your business' tone. Think about various scenarios that might arise and your response for those scenarios. 
@@ -197,7 +197,7 @@ Ask the following questions when considering the tone of a social media post:
 
 Basically, put yourself in your audience's shoes. 
 
-## Developing Social Media Content
+### Developing Social Media Content
 
 Content should be tailored according to the social media channel it is being posted on. 
 Different components that should be kept in mind while developing content: 
@@ -207,7 +207,7 @@ Different components that should be kept in mind while developing content:
 * CTAs (CTAs should use active voice)
 * Tagging
 
-## Content Curation
+### Content Curation
 
 Content curation involves gathering content that is relevant to a topic or area of interest and then sharing with audience, with proper citations and credits to original author(s).
 
@@ -223,5 +223,5 @@ Content curation involves gathering content that is relevant to a topic or area 
 1. Establish a good mix of promotional content and curated content. (80/20 mix, 80 own and 20 curated)
 2. Always keep Buyer Persona in mind when curating content. 
 3. Use surveys and other methods to understand customers. 
-4. If needed, use content curation tools. 
+4. If needed, use content curation tools.
 
