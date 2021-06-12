@@ -182,5 +182,46 @@ The distinc and steady personality of your brand. (helpful, quirky, sarcastic, f
 ### Tone
 Tone is a subset of voice and refers to the mood and attitude of specific content pieces. Context is the key to come up with a proper tone. Put yourself in the audience's shoes and think about their personas.
 
+### Developing tone and voice for a brand
 
+1. Personalize brand and think of it as a person. 
+2. Context is key when developing your business' tone. Think about various scenarios that might arise and your response for those scenarios. 
+
+Ask the following questions when considering the tone of a social media post: 
+
+1. What is the purpose of this content?
+2. Who will relate with and view the content?
+3. How do they feel?
+4. What do they want to understand?
+5. Therefore, what kind of tone should I use?
+
+Basically, put yourself in your audience's shoes. 
+
+## Developing Social Media Content
+
+Content should be tailored according to the social media channel it is being posted on. 
+Different components that should be kept in mind while developing content: 
+
+* Hashtags (Don't use too many hashtags, ideally 2-5)
+* Text
+* CTAs (CTAs should use active voice)
+* Tagging
+
+## Content Curation
+
+Content curation involves gathering content that is relevant to a topic or area of interest and then sharing with audience, with proper citations and credits to original author(s).
+
+#### Advantages of content curation
+
+1. Saves time and money.
+2. Builds industry connections. 
+3. Extends social reach. 
+4. Enables you to post a bigger variety of content. 
+
+#### Tips for efficient content curation
+
+1. Establish a good mix of promotional content and curated content. (80/20 mix, 80 own and 20 curated)
+2. Always keep Buyer Persona in mind when curating content. 
+3. Use surveys and other methods to understand customers. 
+4. If needed, use content curation tools. 
 
